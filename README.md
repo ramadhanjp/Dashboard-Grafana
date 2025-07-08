@@ -1,2 +1,2 @@
 # Dashboard-Grafana
-Disini adalah bebrapa kumpulan dashboard grafana yang bisa digunakan
+Bebrapa kumpulan dashboard grafana yang bisa digunakan
